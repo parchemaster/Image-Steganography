@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+n9sVCa8sGDYwSjPo5Efa2Vhxa5OReUlDAvYuNvNMPQSaV76DFvLrRadDe03oCeLWWAEVQuqh0IAn9X74pwW5g==",
+  "success": true,
+  "projectFilePath": "/Users/Ivan/Downloads/Ivan_Sharai_PV178/zadanie/HW04/HW04.csproj",
+  "expectedPackageFiles": [
+    "/Users/Ivan/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/Ivan/.nuget/packages/sixlabors.imagesharp/2.0.0/sixlabors.imagesharp.2.0.0.nupkg.sha512",
+    "/Users/Ivan/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/Ivan/.nuget/packages/system.text.encoding.codepages/5.0.0/system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
